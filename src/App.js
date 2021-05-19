@@ -5,6 +5,7 @@ import John from "./Components/JohnShelby.js";
 import Arthur from "./Components/ArthurShelby.js";
 import Tommy from "./Components/TommyShelby.js";
 import render, { Forma } from "./Components/forma.js";
+import Footer from './Components/Footer.js';
 
 import {BrowserRouter as Ruter,Switch, Link,Route} from "react-router-dom";
 function App() {
@@ -47,8 +48,9 @@ Dominacija Blindersa nastala je premlaćivanjem suparnika, poput "Sloggera", za 
       >
       <source src={Peaky} type="video/mp4"/>
       </video>
+      <Footer />
+
     </div>  
-    
     </Ruter>
   );
 }

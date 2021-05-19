@@ -61,3 +61,15 @@ form{
 #labbel{
   color:lavender;
 }
+.footer{
+  margin-top: 1rem;
+  color: white;
+  padding: 1rem;
+  background-color: rgb(180, 10, 2);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  opacity: 0.1;
+  width: 100%;
+  
+}
