@@ -1,3 +1,7 @@
+# Project that shows off main characters in Peaky Blinders netflix series
+
+The project uses CSS, React.js, and also router that made everything easier.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
